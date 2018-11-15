@@ -1,0 +1,6 @@
+framework module Pods_Pera {
+  umbrella header "Pods-Pera-umbrella.h"
+
+  export *
+  module * { export * }
+}
